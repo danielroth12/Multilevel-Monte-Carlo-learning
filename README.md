@@ -11,7 +11,7 @@
 
 Examples are given in the folder "example-outputs"
 
-Gerstner et al. "Multilevel Monte Carlo learning." arXiv preprint arXiv:2102.08734 (2021).
+Gerstner, T., Harrach, B., Roth, D., and Simon, M. (2021) "Multilevel Monte Carlo learning." arXiv preprint arXiv:2102.08734 (2021).
 
 https://arxiv.org/abs/2102.08734
 
